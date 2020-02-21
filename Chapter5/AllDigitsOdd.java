@@ -2,7 +2,7 @@
 public class AllDigitsOdd {
 	//**************************************
 	//
-	// The Method allDigitsOdd that returns whether every digit of a positive number is odd.
+	// The Method allDigitsOdd returns whether every digit of a positive number is odd.
 	// Return true if the number consist of entirely odd digits.
 	// By:  Gene Rocha 
 	// Date: 02/17/2020
