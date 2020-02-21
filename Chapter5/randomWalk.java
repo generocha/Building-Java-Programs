@@ -3,7 +3,11 @@ import java.util.Random;
 public class RandomWalk {
 	//**************************************
 	//
-	// The Method randomWalk
+	// The Method randomWalk performs steps of a random one-dimensional walk, reporting each position 
+	// reached and the maximum position reached during the walk. The random walk should begin at position 0.
+	// On each step, you should either increase or decrease the position by 1 (with equal probability). 
+	// The walk stops when max position 3 or -3 is reached.
+	//
 	// By:  Gene Rocha 
 	// Date: 02/20/2020
 	//
