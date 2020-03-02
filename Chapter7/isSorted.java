@@ -1,3 +1,4 @@
+public class IsSorted {
 	//**************************************
 	//
 	// The Method: isSorted
@@ -23,3 +24,5 @@
          }
          return true;// the array is sorted
 	}
+
+}
