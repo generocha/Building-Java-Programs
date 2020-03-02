@@ -1,7 +1,9 @@
-  //**************************************
+
+public class IsUnique {
+	//**************************************
 	//
 	// The Method: isUnique
-	// isUnique takes an array of integers as a parameter and that returns a boolean value 
+	// that takes an array of integers as a parameter and that returns a boolean value 
 	// indicating whether or not the values in the array are unique (true for yes, false for no).
 	// The values in the list are considered unique if there is no pair of values that are equal. 
 	//
@@ -26,3 +28,5 @@
 		}
 		return true;
 	}
+
+}
